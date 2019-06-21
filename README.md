@@ -8,6 +8,6 @@ Cursos da [formação PHP](https://cursos.alura.com.br/formacao-desenvolvedor-ph
 - [X] O que é PHP?
 - [X] Variáveis e tipos
 - [X] Trabalhando com texto
-- [ ] Tomando decisões
-- [ ] Repetindo ações
-- [ ] Desafios
+- [X] Tomando decisões
+- [X] Repetindo ações
+- [X] Desafios
