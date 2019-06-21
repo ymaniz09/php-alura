@@ -1,2 +1,13 @@
-# php-alura
-Exercícios e projetos de PHP @ Alura
+# Curso de PHP @ Alura
+
+Cursos da [formação PHP](https://cursos.alura.com.br/formacao-desenvolvedor-php), disponível na plataforma da Alura.
+
+## Contents
+
+## Introdução ao PHP: Primeiros passos com a linguagem
+- [ ] O que é PHP?
+- [ ] Variáveis e tipos
+- [ ] Trabalhando com texto
+- [ ] Tomando decisões
+- [ ] Repetindo ações
+- [ ] Desafios
