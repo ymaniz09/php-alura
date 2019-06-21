@@ -5,7 +5,7 @@ Cursos da [formação PHP](https://cursos.alura.com.br/formacao-desenvolvedor-ph
 ## Contents
 
 ## Introdução ao PHP: Primeiros passos com a linguagem
-- [ ] O que é PHP?
+- [X] O que é PHP?
 - [ ] Variáveis e tipos
 - [ ] Trabalhando com texto
 - [ ] Tomando decisões
